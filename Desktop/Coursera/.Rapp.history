@@ -1,0 +1,57 @@
+options(prompt="R> ")
+1+1 #This works out the result of one plus one
+getwd()
+library("MASS")
+install.packages("ks")
+mean?
+?mean
+R: mean(mtcars$mpg)
+mean(mtcars$mpg)
+my function <- function()#
+x <- normal(100)#
+mean(x)
+ls()
+dir()
+dir()
+wd()
+getwd()
+myfunction
+ls()
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+myfunction
+ls()
+myfunction()
+getwd()
+ls()
+dir()
+source("myfunction.R")
+ls
+ls()
+source("myfunction.R")
+ls()
+second
+second(4)
+second(4)
+second(4)
+second(4:10)
+getwd()
+ls()
+second
+second(x+2)
+x <- 2
+x
+source(x+2)
+source
+ls()
+second
+second(x+2)
+library(datasets)
+data(iris)
+cor(iris)
+library(airquality)
+library(datasets)
+data(airquality)
+cor(airquality)
